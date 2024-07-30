@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Objective: This lab aims to provide hands-on experience in configuring an Active Directory environment within a virtualized setting. By following these steps, you’ll gain insights into AD concepts, Windows networking, and essential administration tasks.
+This lab aims to provide hands-on experience in configuring an Active Directory environment within a virtualized setting. By following these steps, you’ll gain insights into AD concepts, Windows networking, and essential administration tasks.
 <br />
 
 
